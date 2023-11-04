@@ -66,12 +66,13 @@ ${data.time}
 
 🗞️ *News From hirunews.lk*
 
-🔗 *Create By Nipuna Rangana*
+🔗 *CREATE BY MR-DUMIDU*
 
 📍 *SL News*
 
 📰 *Group Link* :- https://chat.whatsapp.com/D0ywz4bax49AVnBLOZL7sI
 
+   💃 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙲𝙺𝚈 𝙽𝙴𝚆𝚂 𝙼𝙳 💃
 ●━━━━━━━━━━━━━━━━━━━━━●`
      let newss = await news1.findOne({ id: '123' }) 
   
